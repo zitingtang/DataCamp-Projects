@@ -1,2 +1,2 @@
-# DataCamp
-The hottest topics in machine learning
+# DataCamp Projects
+
